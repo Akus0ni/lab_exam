@@ -75,7 +75,7 @@ localhost:8080
 ####################GITHUB##########################
 # apt-get install git-core
 # git config --global user.name "Jerry Mouse"
-# git config --global user.emai xyz@gmail.com
+# git config --global user.email xyz@gmail.com
 # git config --global branch.autosetuprebase always
 # git config --global color.ui true
 # git config --global color.status auto
